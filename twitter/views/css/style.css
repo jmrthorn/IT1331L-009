@@ -66,3 +66,20 @@ div img:hover {
     color: #657786;
     font-family: Arial, sans-serif;
 }
+
+.tweet-actions {
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    color: #657786;
+    font-family: Arial, sans-serif;
+}
+
+#action-value {
+    font-family: Arial, sans-serif;
+}
+
+.tweet:nth-child(even) {
+    background-color: #243443c2;
+}
+    
